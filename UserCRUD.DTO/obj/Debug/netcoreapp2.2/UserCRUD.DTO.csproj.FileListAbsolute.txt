@@ -1,0 +1,9 @@
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\bin\Debug\netcoreapp2.2\UserCRUD.DTO.deps.json
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\bin\Debug\netcoreapp2.2\UserCRUD.DTO.dll
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\bin\Debug\netcoreapp2.2\UserCRUD.DTO.pdb
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\obj\Debug\netcoreapp2.2\UserCRUD.DTO.csproj.CoreCompileInputs.cache
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\obj\Debug\netcoreapp2.2\UserCRUD.DTO.AssemblyInfoInputs.cache
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\obj\Debug\netcoreapp2.2\UserCRUD.DTO.AssemblyInfo.cs
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\obj\Debug\netcoreapp2.2\UserCRUD.DTO.dll
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\obj\Debug\netcoreapp2.2\UserCRUD.DTO.pdb
+C:\Users\dsierra1\source\repos\UserCRUD\UserCRUD.DTO\obj\Debug\netcoreapp2.2\UserCRUD.DTO.csprojAssemblyReference.cache
